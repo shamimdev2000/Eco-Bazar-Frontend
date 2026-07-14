@@ -1,0 +1,6 @@
+{
+  "name": "Ecobazar",
+  "description": "Ecobazar - A premium, modern, fully-functional Organic Grocery e-commerce store with pixel-perfect Figma styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
